@@ -1,3 +1,13 @@
+<!-- course-navigation:start -->
+<p>
+  <a href="https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md#python-e-ia"><img alt="Índice de materiais" src="https://img.shields.io/badge/MATERIAIS-Python%20e%20IA-005DAA?style=flat-square" /></a>
+  <img alt="SENAI — material de curso" src="https://img.shields.io/badge/SENAI-Material_de_curso-E30613?style=flat-square" />
+</p>
+
+[← Catálogo de cursos e projetos](https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md) · [Perfil](https://github.com/MatheusBenvindo)
+
+<!-- course-navigation:end -->
+
 <h1 align="center">🤖 Python & Inteligência Artificial — SENAI</h1>
 
 <p align="center">
@@ -74,3 +84,14 @@
 <p align="center">
   <sub>Desenvolvido por <strong>Matheus Benvindo</strong> · SENAI — Curso de Inteligência Artificial com Python</sub>
 </p>
+
+
+## Navegação dos materiais
+
+| Pasta ou arquivo | Acesso |
+|---|---|
+| Fund Python I.A - UC01 | [Abrir pasta](./Fund%20Python%20I.A%20-%20UC01) |
+| Visão Computacional - UC04 | [Abrir pasta](./Vis%C3%A3o%20Computacional%20-%20UC04) |
+| flight-delay-prediction-xgboost | [Abrir pasta](./flight-delay-prediction-xgboost) |
+| outros-experimentos | [Abrir pasta](./outros-experimentos) |
+
